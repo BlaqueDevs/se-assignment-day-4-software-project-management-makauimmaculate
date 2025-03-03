@@ -246,7 +246,6 @@ Start with the Core Purpose
 What does the software do?
 Example: "Our software simplifies online ordering and enhances customer experience for small businesses."
 Highlight the Key Benefits
-
 How does it improve the user's life or work?
 Example: "It helps businesses manage customer orders efficiently while giving users a seamless browsing and shopping experience."
 Focus on User Needs and Problems Solved
